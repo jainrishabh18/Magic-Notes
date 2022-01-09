@@ -1,3 +1,6 @@
 # Magic-Notes
 
-![2022-01-09 (1)](https://user-images.githubusercontent.com/49811626/148682708-a376eb06-0eaf-4fc3-b119-73c1cbc01853.png)
+![image](https://user-images.githubusercontent.com/49811626/148682921-1b6986c4-b3eb-42f8-9102-561f51a7871d.png)
+ 
+ 
+This app also includes filter functionality where we can search and filter item. 
